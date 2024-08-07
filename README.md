@@ -1,7 +1,7 @@
-# DNA Analyzer
+# GeneTrack
 
 ## Overview
-DNA Analyzer is a Java program designed to analyze DNA sequences and identify individuals based on Short Tandem Repeats (STRs). STRs are short DNA segments repeated back to back, and analyzing these can help identify genetic information and potential relationships. This program reads DNA profiles and STRs of interest from input files, processes the DNA data, and provides detailed analysis.
+GeneTrack is a Java program designed to analyze DNA sequences and identify individuals based on Short Tandem Repeats (STRs). STRs are short DNA segments repeated back to back, and analyzing these can help identify genetic information and potential relationships. This program reads DNA profiles and STRs of interest from input files, processes the DNA data, and provides detailed analysis.
 
 ## Features
 - **Profile Database Creation**: Reads and stores DNA profiles from a database file.
